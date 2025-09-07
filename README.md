@@ -3,9 +3,7 @@
 I am a recent graduate from Scripps College, where I majored in Data Science and minored in English and Spanish. I am interested in the applications of data analysis to different fields and interests, including sports, journalism, and human rights. 
 
 - For my [senior thesis]([url](https://github.com/afr13dman/senior-thesis)), I analyzed structural patterns of state districting maps to then developed twelve random graph models that replicate these patterns, providing testbeds for developing and evaluating algorithms aimed at creating fairer districting plans.
-<!--
-- ⚾️ For my major capstone, I led the development of a catch probability model that incorporated environmental factors for an MLB team.
--->
+- ⚾️ I worked as a data analyst for my college baseball team, tracking opposing hitters tendencies during games and compiling stats on our pitchers performance. I created a Shiny app to visualize pitcher metrics to allow coaches and players to easily assess performances and identify opportunities for improvement.
 - 💬 Ask me about different projects I worked on:
     - Analyzed how congressional district maps in litigation in nine U.S. states could have affected the outcome of the 2024 U.S. House of Representatives election. See [project repository](https://github.com/elemiller31/Math195-Final-Project).
     - Researched illiteracy in Uruguayan prisons to evaluate impact of existing prison literacy programs.
